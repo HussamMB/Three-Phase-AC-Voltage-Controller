@@ -1,0 +1,2 @@
+# Three-Phase-AC-Voltage-Controller
+voltage controller, also called an AC voltage controller is an electronic module based on either thyristors, TRIACs, SCRs or IGBTs, which converts a fixed voltage, fixed frequency alternating current (AC) electrical input supply to obtain variable voltage in output delivered to a resistive load. This varied voltage output is used for dimming street lights, varying heating temperatures in homes or industry, speed control of fans and winding machines and many other applications. 
